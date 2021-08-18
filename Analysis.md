@@ -130,7 +130,7 @@
 <img src="https://github.com/shawnbanasick/easy-htmlq/raw/master/readme_assets/form2-form3.png" width="200" />
 <p>
 
-### The "form4" results are for a checkbox-type question. Unlike the previous radio- and select-type questions above which forced participants to select a single answer, this question type allows for multiple answers. Answers that are checked are reported as "1", while un-checked answers are reported as "0". In this example, the first participant checked the first two options ("Lecture" and "Group Discussion"), the second participant checked all the options, and the third participant checked only the last option ("Active Learning").
+### The "form4" results are for a checkbox-type question. Unlike the previous radio- and select-type questions above which forced participants to select a single answer, this question type allows for multiple multiple answers. Answers that are checked are reported as "1", while un-checked answers are reported as "0". In this example, the first participant checked the first two options ("Lecture" and "Group Discussion"), the second participant checked all the options, and the third participant checked only the last option ("Active Learning").
 
 <p align="center">
 <b>Demo Survey "form4" - Checkbox-Type Question</b> <br/>

@@ -65,7 +65,7 @@ angular
       $stateProvider
         .state("error", {
           template:
-            '<div class="container"><div class="row" style="margin-top: 35px;"><div class="col-xs-8 col-xs-offset-2 alert alert-danger"><p>An error occurred while opening your survey. Due to improved browser security measures, it is no longer possible to view these files by double clicking on index.html. To view and test your file setup, please use Easy HTMLQ Configurator.</p></div></div></div>',
+            '<div class="container"><div class="row" style="margin-top: 35px;"><div class="col-xs-8 col-xs-offset-2 alert alert-danger"><p>An error occured while opening your survey. Due to improved browser security measures, it is no longer possible to view these files by double clicking on index.html. To view and test your file setup, please use Easy HTMLQ Configurator.</p></div></div></div>',
         })
         .state("root", {
           abstract: true,
@@ -615,7 +615,7 @@ angular
           }
         }
 
-        // statements in grid are rated
+        // stementents in grid are rated
         for (var i = 0; i < inGrid.length; i++) {
           if (inGrid[i]) {
             current++;
