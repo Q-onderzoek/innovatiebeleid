@@ -1,13 +1,13 @@
 // Initialize Firebase
 var config = {
-	apiKey: "AIzaSyBe-HkqLee_PzPWJ1WUhsKbDFAogQ06xaI",
-    authDomain: "q-onderzoek.firebaseapp.com",
-    databaseURL: "https://q-onderzoek-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "q-onderzoek",
-    storageBucket: "q-onderzoek.appspot.com",
-    messagingSenderId: "355263352548",
-    appId: "1:355263352548:web:9eaa17a6a1f75d092126f1",
-    measurementId: "G-MV37HD94JY"
+    apiKey: "AIzaSyAnIhi-5qUxl9an1XMgfDiNY2eIdaD0qq4",
+    authDomain: "q-study.firebaseapp.com",
+    databaseURL: "https://q-study-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "q-study",
+    storageBucket: "q-study.appspot.com",
+    messagingSenderId: "462639363378",
+    appId: "1:462639363378:web:8910bc839850bb9e57532b",
+    measurementId: "G-3SZRCDG1C4"
 };
 firebase.initializeApp(config);
 var rootRef = firebase.database().ref();
