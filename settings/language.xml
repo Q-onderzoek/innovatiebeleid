@@ -54,7 +54,7 @@ Nogmaals dank,{br}{br}
 Ferdinand Griesdoorn</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
-        <item id="step1Head">Stap 1 van 5</item>
+        <item id="step1Head">Stap 1 van 4</item>
         <item id="step1Text">De volgende 43 stellingen gaan over innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie. 
   {br}U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Hierna volgen een aantal vragen over uw achtergrond. 
 {br}{br} Lees de stellingen  nauwkeurig en verdeel ze in drie categorieën:
@@ -68,7 +68,7 @@ Als u deze instructie nog een keer wilt lezen, druk dan op 'Help' in de hoek rec
 {br}{br} Als u de tekst van de introductie nog eens wilt lezen, klik dan op de knop 'Terug' linksonder in het scherm.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
-        <item id="step2Head">Stap 2 van 5</item>
+        <item id="step2Head">Stap 2 van 4</item>
         <item id="step2Text">Neem de stellingen uit de categorie 'Mee eens' en lees ze nog een keer. U kunt door de stellingen heen scrollen door gebruik te maken van de scroll- balk. Selecteer vervolgens de stelling waar u het het meest mee eens bent en plaats deze aan de rechterkant van de scorekaart, onder de '+5'.
 {br}{br}Lees daarna de stellingen in de categorie 'Mee oneens' nogmaals. Selecteer wederom de stelling waar u het het meest mee oneens bent en plaats deze aan de linkerkant van de scorekaart onder '-5'.
 {br}{br}Selecteer vervolgens de stellingen waar u het daarna het meest mee eens/oneens bent en plaats deze onder '+4'/'-4'. Ga op deze manier door met het invullen van de stellingen aan de 'Mee oneens' en 'Mee eens' zijdes van de scorekaart tot de stellingen op zijn.
@@ -82,11 +82,11 @@ Als u deze instructie nog een keer wilt lezen, druk dan op 'Help' in de hoek rec
         <item id="step3CondOfInstruc">Sorteer de kaarten op basis van uw perspectief op innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie.</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
-        <item id="step4Head">Stap 4 van 5</item>
+        <item id="step4Head">Stap 3 van 4</item>
         <item id="step4Text">Leg alstublieft in een paar zinnen uit waarom u het meest eens en oneens bent met de stellingen onder '+5' en '-5'.</item>
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
-        <item id="step5Head">Stap 5 van 5</item>
+        <item id="step5Head">Stap 4 van 4</item>
         <item id="step5Text">Ten slotte volgen nog een paar vragen over uw persoonlijke kenmerken en achtergrond.</item>
 
         <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
