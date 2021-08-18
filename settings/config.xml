@@ -73,7 +73,7 @@
      <item id="submitUrl">exe.php?do=save</item>
   
      <!-- request mode (post|get|firebase) -->
-     <item id="submitUrlMethod">firebase</item>
+     <item id="submitUrlMethod">post</item>
   
      <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
      <item id="submitMail">yourdomain.com</item>
