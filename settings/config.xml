@@ -41,16 +41,16 @@
      <item id="form">
 	 
 <label>Wat is uw naam:</label>
-<input required="true" type="textarea"></input>
+<input required="true" type="text"></input>
 
 <label>Wat is uw voornaam:</label>
-<input required="true" type="textarea"></input>
+<input required="true" type="text"></input>
 
 <label>Wat is uw e-mail adres:</label>
-<input required="true" type="textarea"></input>
+<input required="true" type="text"></input>
 
 <label>Werkt u bij de overheid, in de wetenschap of een bedrijf? (meerdere antwoorden mogelijk)</label>
-<input required="true" type="radio">Overheid;Wetenschap;Bedrijf</input>
+<input required="true" type="checkbox">Overheid;Wetenschap;Bedrijf</input>
 
 <label>Bent u bekend met het wetenschappelijke werkveld rondom responsible research and innovation?</label>
 <input required="true" type="radio">Ja;Nee</input>
