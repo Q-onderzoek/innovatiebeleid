@@ -4,30 +4,30 @@
 ;
 
         <!-- misc -->
-        <item id="btnContinue">Ga verder..</item>
-        <item id="btnclose">Sluiten</item>
-        <item id="btnHelp">Help mij!</item>
-        <item id="btnAgreement">Eens</item>
-        <item id="btnNeutral">Neutraal</item>
-        <item id="btnDisagreement">Oneens</item>
-        <item id="btnTransfer">Indienen</item>
-        <item id="btnExit">Sluiten</item>
-        <item id="selectItem">Selecteer alstublieft..</item>
+        <item id="btnContinue">Continue...</item>
+        <item id="btnclose">Close</item>
+        <item id="btnHelp">Help me!</item>
+        <item id="btnAgreement">Agree</item>
+        <item id="btnNeutral">Neutral</item>
+        <item id="btnDisagreement">Disagree</item>
+        <item id="btnTransfer">Submit data</item>
+        <item id="btnExit">Exit</item>
+        <item id="selectItem">Please select...</item>
         
         <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
-        <item id="leaveSiteWarning">Uw antwoorden zullen verloren gaan.</item>
+        <item id="leaveSiteWarning">Your answers will be lost.</item>
 
         <!-- HtmlQ only: In-App Back Button -->
-        <item id="backButton">Terug</item>
-        <item id="fillInRequiredFields">Vul alstublieft alle verplichte velden in.</item>
+        <item id="backButton">Back</item>
+        <item id="fillInRequiredFields">Please fill in all required fields</item>
 
         <!-- errors -->
         <item id="errorHead">Error!</item>
-        <item id="errorWindowTooSmall">Vergroot uw scherm voor gebruik van deze applicatie.</item>
+        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
         <!-- welcome screen (leave blank to skip screen) -->
-        <item id="welcomeHead">Welkom!</item>
-        <item id="welcomeText">Hartelijk dank dat u wilt deelnemen aan het eerste deel van dit onderzoek.</item>
+        <item id="welcomeHead">Welcome!</item>
+        <item id="welcomeText">This is a demo project on iPad use in the classroom.{br}{br}{b}** Important Information **{/b}{br}For this survey you will need as much screen space as possible!{br}{br}If necessary, please {b}MAXIMIZE{/b} the size of your browser window, {b}{i}reload{/i}{/b} this web page, and click on the "Continue" button to start the survey.</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Access Code</item>
@@ -39,60 +39,34 @@
         <item id="loginNoConnection">Connection to server failed. Please try again.</item>
 
         <!-- introduction (leave blank to skip popup) -->
-        <item id="introHead">Introductie</item>
-        <item id="introText">Hartelijk dank dat u wilt deelnemen aan het eerste deel van dit onderzoek.{br}
-Graag wil ik weten welke perspectieven er zijn over de Nederlandse innovatie aanpak voor quantum technologie en of deze perspectieven veranderen als belanghebbenden meer kennis krijgen over responsible research and innovation.{br} 
-Uw bijdrage geeft u door stellingen te rangschikken waarmee kan ik de perspectieven onderzoeken.{br}
-Ik ben van mening dat er geen bekende risico's zijn verbonden aan dit onderzoek. Zoals bij elke online gerelateerde activiteit is het risico van een inbreuk echter altijd mogelijk.{br}
-Uw antwoorden zullen geanonimiseerd worden en naar mijn beste vermogen vertrouwelijk blijven.{br}
-Ik zal eventuele risico’s minimaliseren door de verzamelde data na de afronding van het onderzoek te verwijderen.{br}{br}
-In 2022 wil ik u uitnodigen voor het tweede deel van dit onderzoek.{br}
-Zou u uw naam, voornaam en e-mail adres willen invullen zodat wij u tijdig voor het tweede deel kunnen uitnodigen?{br}
-Uw deelname aan dit onderzoek is geheel vrijwillig en u kunt zich op elk moment terugtrekken. Het invullen duurt ongeveer 30 minuten.{br}{br}
-Mocht u vragen hebben of meer informatie willen verkrijgen,{br}
-Neemt u dan contact met mij op,{br}
-Nogmaals dank,{br}{br}
-Ferdinand Griesdoorn</item>
+        <item id="introHead">Introduction</item>
+        <item id="introText">This study is about iPad use in the classroom.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
-        <item id="step1Head">Stap 1 van 5</item>
-        <item id="step1Text">De volgende 43 stellingen gaan over innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie. 
-  {br}U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Hierna volgen een aantal vragen over uw achtergrond. 
-{br}{br} Lees de stellingen  nauwkeurig en verdeel ze in drie categorieën:
-{br}{br}- stellingen waar u het mee oneens bent;
-{br}{br}- stellingen waar u neutraal over ben;
-{br}{br}- stellingen waar u het mee eens bent.
-{br}{br}U kunt de stellingen naar de gewenste categorie slepen of u kunt de toetsen 1, 2 of 3 gebruiken (let op: mogelijk moet u de numlock op uw toetsenbord uitzetten om de toetsen 1, 2 of 3 te kunnen gebruiken).
-{br}Let op! Sommige stelling zijn te lang om in één keer te kunnen lezen. Plaats deze dan in één van de categorieën, dan kun je de stelling volledig lezen. Daarna kun je de stelling nog naar een andere categorie verplaatsen.
-{br}U kunt uw voorkeur later nog veranderen.
-Als u deze instructie nog een keer wilt lezen, druk dan op 'Help' in de hoek rechtsonder van uw beeldscherm. 
-{br}{br} Als u de tekst van de introductie nog eens wilt lezen, klik dan op de knop 'Terug' linksonder in het scherm.</item>
+        <item id="step1Head">Step 1 of 5</item>
+        <item id="step1Text">Read the folowing statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for the rest.{br}{br}You can either drag the cards into one of the three piles or {b}press 1, 2, 3{/b} on your keyboard. Changes can be made later.{br}{br}If you want to read this instruction a second time, press the help-button at the bottom left corner.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
-        <item id="step2Head">Stap 2 van 5</item>
-        <item id="step2Text">Neem de stellingen uit de categorie 'Mee eens' en lees ze nog een keer. U kunt door de stellingen heen scrollen door gebruik te maken van de scroll- balk. Selecteer vervolgens de stelling waar u het het meest mee eens bent en plaats deze aan de rechterkant van de scorekaart, onder de '+5'.
-{br}{br}Lees daarna de stellingen in de categorie 'Mee oneens' nogmaals. Selecteer wederom de stelling waar u het het meest mee oneens bent en plaats deze aan de linkerkant van de scorekaart onder '-5'.
-{br}{br}Selecteer vervolgens de stellingen waar u het daarna het meest mee eens/oneens bent en plaats deze onder '+4'/'-4'. Ga op deze manier door met het invullen van de stellingen aan de 'Mee oneens' en 'Mee eens' zijdes van de scorekaart tot de stellingen op zijn.
-{br}{br}Lees tenslotte de stellingen uit de categorie 'Neutraal' nogmaals. Leg de stellingen zo op de resterende vakken neer dat alle stellingen gerangschikt liggen van meest mee oneens (links) naar meest mee eens (rechts).
-{br}{br}Zodra alle stellingen in een vakje zijn geplaatst verschijnt er een 'Ga Verder..' knop in het scherm.</item>
-        <item id="step2CondOfInstruc">Sorteer de kaarten op basis van uw perspectief op innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie.</item>
+        <item id="step2Head">Step 2 of 5</item>
+        <item id="step2Text">Take the cards from the "AGREE"-pile and arrange them on right side of the score sheet.{br}{br}Next, take the cards from the "DISAGREE"-pile and arrange them on the left side of the score sheet. Follow this procedure for all cards in the "AGREE"- and "DIAGREE"-piles.{br}{br}Finally, take the "NEUTRAL"-cards arange them in the remaining open boxes of the score sheet.</item>
+        <item id="step2CondOfInstruc">Sort the cards according to your experience with the iPads this semester</item>
         
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
-        <item id="step3Head">Stap 3 van 5</item>
-        <item id="step3Text">U heeft nu alle stellingen op de scorekaart geplaatst. Bekijk uw verdeling nogmaals en verschuif of wissel stellingen eventueel nog.</item>
-        <item id="step3CondOfInstruc">Sorteer de kaarten op basis van uw perspectief op innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie.</item>
+        <item id="step3Head">Step 3 of 5</item>
+        <item id="step3Text">Now you have placed all cards on the score sheet. Please go over your distribution once more and swap card positions cards if desired.</item>
+        <item id="step3CondOfInstruc">Sort the cards according to your experience with the iPads this semester</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
-        <item id="step4Head">Stap 4 van 5</item>
-        <item id="step4Text">Leg alstublieft in een paar zinnen uit waarom u het meest eens en oneens bent met de stellingen onder '+5' en '-5'.</item>
+        <item id="step4Head">Step 4 of 5</item>
+        <item id="step4Text">Please explain why you agree most or disagree most with the following statements you have placed below "+4" or "-4".</item>
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
-        <item id="step5Head">Stap 5 van 5</item>
-        <item id="step5Text">Ten slotte volgen nog een paar vragen over uw persoonlijke kenmerken en achtergrond.</item>
+        <item id="step5Head">Step 5 of 5</item>
+        <item id="step5Text">Finally, please answer the following questions regarding your background.</item>
 
         <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
-        <item id="transferHead">Afronden vragenlijst</item>
-        <item id="transferText">U heeft de vragenlijst afgerond. Stuur uw antwoorden nu op. {br}{br}Ik dank u hartelijk voor uw medewerking</item>
+        <item id="transferHead">Submit Data</item>
+        <item id="transferText">You've finished the survey. Please submit your data now.</item>
         <item id="transferFailed">Data submission failed. Please try again.</item>
-        <item id="transferOk">Dank voor het opsturen van uw antwoorden.</item>   
+        <item id="transferOk">Thank you for using Easy HTMLQ!{br}{br}You can now close your browser window.</item>   
    </language>
