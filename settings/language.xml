@@ -26,7 +26,7 @@
         <item id="errorWindowTooSmall">Vergroot uw scherm voor gebruik van deze applicatie.</item>
 
         <!-- welcome screen (leave blank to skip screen) -->
-        <item id="welcomeHead">Welkom!</item>
+        <item id="welcomeHead">Welkom</item>
         <item id="welcomeText">Hartelijk dank dat u wilt deelnemen aan het eerste deel van dit onderzoek.</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
