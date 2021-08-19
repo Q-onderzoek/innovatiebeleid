@@ -55,7 +55,7 @@ Ferdinand Griesdoorn</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Stap 1 van 4</item>
-        <item id="step1Text">De volgende 43 stellingen gaan over innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie. 
+        <item id="step1Text">De volgende 42 stellingen gaan over innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie. 
   {br}U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Hierna volgen een aantal vragen over uw achtergrond. 
 {br}{br} Lees de stellingen  nauwkeurig en verdeel ze in drie categorieën:
 {br}{br}- stellingen waar u het mee oneens bent;
