@@ -40,9 +40,11 @@
 
         <!-- introduction (leave blank to skip popup) -->
         <item id="introHead">Introductie</item>
-        <item id="introText">Graag wil ik weten welke perspectieven er zijn over de Nederlandse innovatie aanpak voor quantum technologie en of deze perspectieven veranderen als belanghebbenden meer kennis krijgen over responsible research and innovation.{br} 
-Uw bijdrage geeft u door stellingen te rangschikken waarmee kan ik de perspectieven onderzoeken.{br}
-Ik ben van mening dat er geen bekende risico's zijn verbonden aan dit onderzoek. Zoals bij elke online gerelateerde activiteit is het risico van een inbreuk echter altijd mogelijk. Uw antwoorden zullen anoniem worden verzameld en naar mijn beste vermogen vertrouwelijk blijven. Ik zal eventuele risico’s minimaliseren door de verzamelde data na de afronding van het onderzoek te verwijderen. De verzamelde data kan gebruikt worden voor het schrijven van een paper over de perspectieven die er zijn ten aanzien van de Nederlandse innovatie aanpak voor quantum technologie. De data wordt daarnaast openbaar aangeboden. {br}{br}
+        <item id="introText">Graag wil ik weten welke perspectieven er zijn over de Nederlandse perspectieven ten aanzien van innovatie en of deze perspectieven veranderen als belanghebbenden meer kennis krijgen over verantwoord innoveren (responsible research and innovation). Uw bijdrage geeft u door stellingen te rangschikken waarmee kan ik de perspectieven kan onderzoeken.{br} 
+Ik ben van mening dat er geen bekende risico's zijn verbonden aan dit onderzoek. Zoals bij elke online gerelateerde activiteit is het risico van een inbreuk echter altijd mogelijk. Uw antwoorden zullen anoniem worden verzameld en naar mijn beste vermogen vertrouwelijk blijven. Ik zal eventuele risico’s minimaliseren door de verzamelde data na de afronding van het onderzoek te verwijderen. 
+{br}
+Uw deelname aan dit onderzoek is geheel vrijwillig en u kunt zich op elk moment terugtrekken. Het invullen duurt ongeveer 30 minuten.
+{br}{br}
 Uw deelname aan dit onderzoek is geheel vrijwillig en u kunt zich op elk moment terugtrekken. Het invullen duurt ongeveer 30 minuten.{br}{br}
 Mocht u vragen hebben of meer informatie willen verkrijgen,{br}
 Neemt u dan contact met mij op,{br}
@@ -51,8 +53,8 @@ Ferdinand Griesdoorn</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Stap 1 van 4</item>
-        <item id="step1Text">De volgende 44 stellingen gaan over innovatie, quantum technologie en de Nederlandse innovatie aanpak voor quantum technologie. 
-  {br}U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Hierna volgen een aantal vragen over uw achtergrond. 
+        <item id="step1Text">De volgende 44 stellingen gaan over innovatie en technologie.  
+  {br}U wordt gevraagd deze stellingen te rangschikken op basis van de mate waarin u het eens bent met de stellingen. Hierna volgen een aantal vragen over uw achtergrond.
 {br}{br} Lees de stellingen  nauwkeurig en verdeel ze in drie categorieën:
 {br}{br}- stellingen waar u het mee oneens bent;
 {br}{br}- stellingen waar u neutraal over ben;
